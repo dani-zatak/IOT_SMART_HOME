@@ -1,3 +1,4 @@
 # iPet
 
-iPet GUI
+IoT Project
+HIT Semester B 2024
